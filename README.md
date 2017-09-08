@@ -5,12 +5,13 @@
 [logo]: https://github.com/sonnynomnom/Introduction-to-Programming-in-C/blob/master/logo.png "Columbia University"
 
 **Instructor:** Songqiao Li (sl4142@columbia.edu)  
-  
-**Hamilton 607:** 11:10 am - 1:00 pm (MTWTF)
+
+**Hamilton 607:** 11:10 am - 1:00 pm (MTWTF)  
 **Hamilton 613:** 3:10 pm - 5:00 pm (MTWTF)  
   
 **TA:** Dru Grossberg (dag2155@columbia.edu)  
 **TA:** Palmer Hudson (pa2139@columbia.edu)
+
 <br />
 <br />
 
@@ -21,10 +22,6 @@ An intensive course designed to develop logic and programming skills through imm
 ### Note ###
 
 Participants are expected to bring laptops and notebooks to class. Laptops can either be a PC or a Mac, but should have 8GB - 10GB of free space.
-
-### Textbook ###
-
-[Think Java: How to Think Like a Computer Scientist](http://greenteapress.com/thinkjava6/thinkjava.pdf) (Allen B. Downey & Chris Mayfield)
 
 ### Piazza ###
 
@@ -53,32 +50,50 @@ Participants are expected to bring laptops and notebooks to class. Laptops can e
 - [ ] `switch.c`
 - [ ] `quiz.c`
 
-- [ ] `LeapYear.java`
+- [ ] `leapyear.c`
 
-- [ ] `YoungMoney.java`
-- [ ] `EnterPIN.java`
-- [ ] `FizzBuzz.java`
-- [ ] `Guessing.java`
+- [ ] `youngmoney.c`
+- [ ] `enterPIN.c`
+- [ ] `ten.c`
+- [ ] `guessing1.c`
+- [ ] `guessing2.c`
 
-- [ ] `Stars.java`
-- [ ] `PatternOne.java`
-- [ ] `PatternTwo.java`
+- [ ] `fizzbuzz.c`
 
-- [ ] `Reverse.java`
-- [ ] `Armstrong.java`
+- [ ] `week1.c`
 
-- [ ] `ComputingChange.java`
+- [ ] `pattern1.c`
+- [ ] `pattern2.c`
 
-- [ ] `StringDemo.java`
+- [ ] `reverse.c`
+- [ ] `armstrong.c`
 
-- [ ] `BasicArray0.java`
-- [ ] `BasicArray1.java`
+- [ ] `primes.c`
 
-- [ ] `LocatingLargest.java`
-- [ ] `Telephone.java`
+- [ ] `mimzy.c`
+- [ ] `oddeven.c`
 
-- [ ] `Area.java`
-- [ ] `HighScore.java`
+- [ ] `ascend.c`
+
+- [ ] `strings.c`
+
+- [ ] `alternate.c`
+
+- [ ] `findme.c`
+
+- [ ] `hangman.c`
+- [ ] `hypotenuse.c`
+- [ ] `area.c`
+
+
+- [ ] `books.c`
+- [ ] `car.c`
+
+- [ ] `enum.c`
+- [ ] `factorial.c`
+
+- [ ] `fibonacci.c`
+- [ ] `pointer.c`
 
 <br />
 <br />

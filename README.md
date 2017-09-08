@@ -13,7 +13,6 @@
 **TA:** Palmer Hudson (pa2139@columbia.edu)
 
 <br />
-<br />
 
 ## Course Description ##
 

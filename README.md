@@ -97,9 +97,10 @@ Participants are expected to bring laptops and notebooks to class. Laptops can e
 
 ### Final Projects ###
 
-* [Space Invaders](https://www.videocomingsoon.com) - Brandon Lim + co. 
-* [Battleship](https://www.videocomingsoon.com) - Louie Kotler + co.
-* [Tron](https://www.videocomingsoon.com) - Marcus Kapoor and Jacob Lindahl
+* [Space Invaders](https://www.videocomingsoon.com) - Brandon Lim + co. (Summer 2017)
+* [Battleship](https://www.videocomingsoon.com) - Louie Kotler + co. (Summer 2017)
+* [Tron](https://www.videocomingsoon.com) - Marcus Kapoor and Jacob Lindahl (Summer 2017)
+* [Black Jack](https://www.videocomingsoon.com) - Michael Hanlon (Summer 2016)
 <br>
 
 ## License

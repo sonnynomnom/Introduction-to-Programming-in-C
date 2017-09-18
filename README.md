@@ -30,13 +30,13 @@ Participants are expected to bring laptops and notebooks to class. Laptops can e
 
 ### Piazza ###
 
-[www.piazza.com/columbia/summer2017/cpron0209](www.piazza.com/columbia/summer2017/cpron0209)  
+[www.piazza.com/columbia/summer2017/cpron0209](https://www.piazza.com/columbia/summer2017/cpron0209)  
 
 ### Programs ###
 
-- [ ] `hello.c`  
-- [ ] `pattern.c`  
-- [ ] `initials.c`
+- [x] `hello.c`  
+- [x] `pattern.c`  
+- [x] `initials.c`
 
 - [ ] `temp.c`
 - [ ] `bmi.c`

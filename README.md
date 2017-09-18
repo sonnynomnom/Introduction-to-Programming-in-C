@@ -11,6 +11,8 @@
 
 **TA:** Dru Grossberg (dag2155@columbia.edu)  
 **TA:** Palmer Hudson (pa2139@columbia.edu)
+<br />
+<br />
 
 ## Course Description ##
 

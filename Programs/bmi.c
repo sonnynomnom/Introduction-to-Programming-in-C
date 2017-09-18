@@ -1,5 +1,5 @@
-// Sonny Li
-// Intro to Programming in C
+/* Jason Chay */
+/* Fun Fact: I am a Roger Federer fan. */
 
 #include <stdio.h>
 

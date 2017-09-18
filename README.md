@@ -44,11 +44,11 @@ Participants are expected to bring laptops and notebooks to class. Laptops can e
 - [x] `currency.c`
 
 - [x] `flipcoin.c`
-- [ ] `spacebox.c`
-- [ ] `switch.c`
+- [x] `spacebox.c`
 - [x] `quiz.c`
 
 - [ ] `leapyear.c`
+- [ ] `switch.c`
 
 - [ ] `youngmoney.c`
 - [ ] `enterPIN.c`

@@ -38,16 +38,15 @@ Participants are expected to bring laptops and notebooks to class. Laptops can e
 - [x] `pattern.c`  
 - [x] `initials.c`
 
-- [ ] `temp.c`
-- [ ] `bmi.c`
-- [ ] `quadratic.c`
-- [ ] `currency.c`
+- [x] `temp.c`
+- [x] `bmi.c`
+- [x] `quadratic.c`
+- [x] `currency.c`
 
-- [ ] `flip.c`
-- [ ] `old.c`
+- [x] `flipcoin.c`
 - [ ] `spacebox.c`
 - [ ] `switch.c`
-- [ ] `quiz.c`
+- [x] `quiz.c`
 
 - [ ] `leapyear.c`
 

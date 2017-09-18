@@ -1,18 +1,16 @@
 # Introduction to Programming in C #
 
-![Lehman College][logo]
+![Columbia University][logo]
 
 [logo]: https://github.com/sonnynomnom/Introduction-to-Programming-in-C/blob/master/logo.png "Columbia University"
 
 **Instructor:** Songqiao Li (sl4142@columbia.edu)  
-
+  
 **Hamilton 607:** 11:10 am - 1:00 pm (MTWTF)  
 **Hamilton 613:** 3:10 pm - 5:00 pm (MTWTF)  
-  
+
 **TA:** Dru Grossberg (dag2155@columbia.edu)  
 **TA:** Palmer Hudson (pa2139@columbia.edu)
-
-<br />
 
 ## Course Description ##
 
@@ -22,15 +20,15 @@ An intensive course designed to develop logic and programming skills through imm
 
 Participants are expected to bring laptops and notebooks to class. Laptops can either be a PC or a Mac, but should have 8GB - 10GB of free space.
 
-### Piazza ###
-
-[www.piazza.com/columbia/summer2017/cpron0209](www.piazza.com/columbia/summer2017/cpron0209)  
-
 ### Course Objectives ###
 
 * Understanding basic computer science concepts
 * Program in C and have a solid foundation to extend their knowledge in more complex problems
 * Think like programmers and apply programming practices in real-life problems
+
+### Piazza ###
+
+[www.piazza.com/columbia/summer2017/cpron0209](www.piazza.com/columbia/summer2017/cpron0209)  
 
 ### Programs ###
 
@@ -93,9 +91,14 @@ Participants are expected to bring laptops and notebooks to class. Laptops can e
 
 - [ ] `fibonacci.c`
 - [ ] `pointer.c`
+<br>
 
-<br />
-<br />
+### Final Projects ###
+
+* [Space Invaders](https://www.videocomingsoon.com) - Brandon Lim + co. 
+* [Battleship](https://www.videocomingsoon.com) - Louie Kotler + co.
+* [Tron](https://www.videocomingsoon.com) - Marcus Kapoor and Jacob Lindahl
+<br>
 
 ## License
 Columbia University © [Songqiao Li](https://instagram.com/sonnynomnom)

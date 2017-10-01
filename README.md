@@ -38,14 +38,14 @@ Participants are expected to bring laptops and notebooks to class. Laptops can e
 - [x] `pattern.c`  
 - [x] `initials.c`
 
-- [x] `temp.c`
-- [x] `bmi.c`
-- [x] `quadratic.c`
-- [x] `currency.c`
+- [x] `temp.c` (Marcus Kapoor)
+- [x] `bmi.c` (Jason Chay)
+- [x] `quadratic.c` (Jonathan Daniel)
+- [x] `currency.c` (Luoyou Zhao)
 
 - [x] `flipcoin.c`
-- [x] `spaceboxer.c`
-- [x] `quiz.c`
+- [x] `spaceboxer.c` (Team Knicks)
+- [x] `quiz.c` (Team Egg and Bananas)
 
 - [ ] `leapyear.c`
 - [ ] `switch.c`

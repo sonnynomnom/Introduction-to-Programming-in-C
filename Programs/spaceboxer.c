@@ -12,8 +12,8 @@ int main() {
     scanf("%f", &weight);
 
     printf("\nI have information for the following planets: \n");
-    printf( "   1. Venus   2. Mars   3. Jupiter \n" );
-    printf( "   4. Saturn  5. Uranus 6. Neptune \n\n" );
+    printf("   1. Venus   2. Mars   3. Jupiter \n");
+    printf("   4. Saturn  5. Uranus 6. Neptune \n\n");
 
     printf("Which planet are you visiting? ");
     scanf("%d", &planet);

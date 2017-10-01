@@ -29,7 +29,7 @@ int main() {
     }
     else
     {
-	      printf("You're dumb sorry.\n\n");
+        printf("You're dumb sorry.\n\n");
     }
 
     // =========== Question 2 ============

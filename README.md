@@ -49,9 +49,9 @@ $ ./hello
 - [x] [`quadratic.c`](Programs/quadratic.c)
 - [x] [`currency.c`](Programs/currency.c)
 
-- [x] `flipcoin.c`
-- [x] `spaceboxer.c`
-- [x] `quiz.c`
+- [] `flipcoin.c`
+- [] `spaceboxer.c`
+- [] `quiz.c`
 
 - [ ] `leapyear.c`
 - [ ] `switch.c`

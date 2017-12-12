@@ -1,5 +1,5 @@
-/* Marcus Kapoor */
-/* Fun Fact: I'm half Czech, half Indian. ヾ(⌐■_■)ノ♪ */
+// Marcus Kapoor
+// Fun Fact: I'm half Czech, half Indian. ヾ(⌐■_■)ノ♪
 
 #include <stdio.h>
 

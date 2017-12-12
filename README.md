@@ -46,7 +46,7 @@ $ ./hello
 - [x] [`temp1.c`](Programs/temp1.c)
 - [x] [`temp2.c`](Programs/temp2.c)
 - [x] [`bmi.c`](Programs/bmi.c)
-- [x] `quadratic.c`
+- [x] [`quadratic.c`](Programs/quadratic.c)
 - [x] `currency.c`
 
 - [x] `flipcoin.c`

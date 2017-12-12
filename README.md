@@ -36,7 +36,6 @@ Participants are expected to bring laptops and notebooks to class. Laptops can e
 
 `$ gcc -Wall hello.c -o hello`  
 <br />
-
 `$ ./hello`  
 <br />
 

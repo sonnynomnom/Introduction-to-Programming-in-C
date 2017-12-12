@@ -1,5 +1,5 @@
-/* Luoyou Zhao */
-/* Fun Fact: My primary, middle, and high school share the same name. */
+// Luoyou Zhao
+// Fun Fact: My primary, middle, and high school share the same name.
 
 #include <stdio.h>
 

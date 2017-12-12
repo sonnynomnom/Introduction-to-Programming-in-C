@@ -34,7 +34,7 @@ Participants are expected to bring laptops and notebooks to class. Laptops can e
 
 ### Programs ###
 
-- [x] `hello.c`  
+- [x] [`hello.c`](Programs/hello.c)
 - [x] `pattern.c`  
 - [x] `initials.c`
 

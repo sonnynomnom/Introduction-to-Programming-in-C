@@ -43,7 +43,8 @@ $ ./hello
 - [x] [`pattern.c`](Programs/pattern.c)  
 - [x] [`initials.c`](Programs/initials.c)
 
-- [x] `temp.c`
+- [x] [`temp1.c`](Programs/temp1.c)
+- [x] [`temp2.c`](Programs/temp2.c)
 - [x] `bmi.c`
 - [x] `quadratic.c`
 - [x] `currency.c`

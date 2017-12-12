@@ -1,5 +1,5 @@
-/* Jonathan Daniel */
-/* Fun Fact: I'm a huge Marvel Cinematic Universe fan. */
+// Jonathan Daniel
+// Fun Fact: I'm a huge Marvel Cinematic Universe fan.
 
 #include <stdio.h>
 #include <math.h>

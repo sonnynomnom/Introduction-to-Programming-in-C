@@ -34,13 +34,10 @@ Participants are expected to bring laptops and notebooks to class. Laptops can e
 
 ### Programs ###
 
-**Compile:**
+**Compile:** `$ gcc -Wall hello.c -o hello`
 
-`$ gcc -Wall hello.c -o hello`
-
-**Execute:**
-
-`$ ./hello`
+**Execute:** `$ ./hello`  
+<br>
 <br>
 
 - [x] [`hello.c`](Programs/hello.c)

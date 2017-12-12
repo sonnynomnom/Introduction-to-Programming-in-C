@@ -1,5 +1,5 @@
-/* Jason Chay */
-/* Fun Fact: I am a Roger Federer fan. */
+// Jason Chay
+// Fun Fact: I am a Roger Federer fan.
 
 #include <stdio.h>
 

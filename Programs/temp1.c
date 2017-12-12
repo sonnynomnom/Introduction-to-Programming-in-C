@@ -9,6 +9,7 @@ int main() {
     float tempc;
 
     // What is the current temperature in New York?
+    
     tempf = 68;
 
     tempc = (tempf-32) * 5/9;

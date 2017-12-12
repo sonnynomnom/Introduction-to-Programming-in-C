@@ -8,9 +8,10 @@ int main() {
     float tempf;
     float tempc;
 
-    // What is the current temperature in New York?
+    // What's the temperature in New York?
     tempf = 68;
 
+    // Fahrenheit -> Celsius
     tempc = (tempf-32) * 5/9;
 
     printf("The current temp is %f degrees Celsius.\n", tempc);

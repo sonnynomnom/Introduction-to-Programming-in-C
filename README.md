@@ -106,10 +106,10 @@ $ ./hello
 
 ### Final Projects ###
 
+* [Black Jack](https://github.com/sonnynomnom/Introduction-to-Programming-in-C/blob/master/Projects/blackjack.png) - Michael Hanlon (Summer 2016)
 * [Space Invaders](https://www.videocomingsoon.com) - Brandon Lim + co. (Summer 2017)
 * [Battleship](https://www.videocomingsoon.com) - Louie Kotler + co. (Summer 2017)
 * [Tron](https://www.videocomingsoon.com) - Marcus Kapoor and Jacob Lindahl (Summer 2017)
-* [Black Jack](https://www.videocomingsoon.com) - Michael Hanlon (Summer 2016)
 <br>
 
 <img src="https://github.com/sonnynomnom/Introduction-to-Programming-in-C/blob/master/Projects/blackjack.png" alt="Black Jack" />

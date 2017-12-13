@@ -1,5 +1,5 @@
-/* Team Knicks */
-/* David Fang, Charlie Chen & Rui Yan */
+// Team Knicks
+// David Fang, Charlie Chen & Rui Yan
 
 #include <stdio.h>
 

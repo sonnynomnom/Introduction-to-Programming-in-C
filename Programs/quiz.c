@@ -1,5 +1,5 @@
-/* Team Egg && Bananas */
-/* Alexan Varelas && Jimmy Liu */
+// Team Egg && Bananas
+// Alexan Varelas && Jimmy Liu
 
 #include <stdio.h>
 

@@ -50,8 +50,8 @@ $ ./hello
 - [x] [`currency.c`](Programs/currency.c)
 
 - [x] [`flipcoin.c`](Programs/flipcoin.c)
-- [ ] `spaceboxer.c`
-- [ ] `quiz.c`
+- [x] [`spaceboxer.c`](Programs/spaceboxer.c)
+- [x] [`quiz.c`](Programs/quiz.c)
 
 - [ ] `leapyear.c`
 - [ ] `switch.c`

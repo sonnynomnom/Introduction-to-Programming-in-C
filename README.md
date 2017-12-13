@@ -54,7 +54,7 @@ $ ./hello
 - [x] [`spaceboxer.c`](Programs/spaceboxer.c)
 - [x] [`quiz.c`](Programs/quiz.c)
 
-- [ ] `leapyear.c`
+- [x] [`leapyear.c`](Programs/leapyear.c)
 - [ ] `switch.c`
 
 - [ ] `youngmoney.c`

@@ -112,5 +112,7 @@ $ ./hello
 * [Black Jack](https://www.videocomingsoon.com) - Michael Hanlon (Summer 2016)
 <br>
 
+<img src="https://github.com/sonnynomnom/Introduction-to-Programming-in-C/blob/master/Projects/blackjack.png" alt="Black Jack" width="400" height="530" />
+
 ## License
 Columbia University © [Songqiao Li](https://instagram.com/sonnynomnom)

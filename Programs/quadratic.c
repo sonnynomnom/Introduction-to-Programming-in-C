@@ -1,6 +1,9 @@
 // Jonathan Daniel
 // Fun Fact: I'm a huge Marvel Cinematic Universe fan.
 
+// $ gcc -Wall quadratic.c -o quadratic -lm 
+// $ ./quadratic
+ 
 #include <stdio.h>
 #include <math.h>
 

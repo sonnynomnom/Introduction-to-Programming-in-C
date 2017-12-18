@@ -32,7 +32,7 @@ Participants are expected to bring laptops and notebooks to class. Laptops can e
 
 [www.piazza.com/columbia/summer2017/cpron0209](https://www.piazza.com/columbia/summer2017/cpron0209)  
 
-### Programs ###
+### Week 1 ###
 
 ```
 $ gcc -Wall hello.c -o hello
@@ -56,6 +56,8 @@ $ ./hello
 
 - [x] [`leapyear.c`](Programs/leapyear.c)
 - [ ] `switch.c`
+
+### Week 2 ###
 
 - [x] [`youngmoney.c`](Programs/youngmoney.c)
 - [ ] `enterPIN.c`

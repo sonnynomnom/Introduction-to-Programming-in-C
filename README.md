@@ -111,7 +111,7 @@ $ ./hello
 * [Black Jack](https://github.com/sonnynomnom/Introduction-to-Programming-in-C/blob/master/Projects/blackjack.png) - Michael Hanlon (Summer 2016)
 * Space Invaders - Brandon Lim + co. (Summer 2017)
 * Battleship - Louie Kotler + co. (Summer 2017)
-* Tronhttps://www.videocomingsoon.com - Marcus Kapoor and Jacob Lindahl (Summer 2017)
+* Tron - Marcus Kapoor and Jacob Lindahl (Summer 2017)
 <br>
 
 <img src="https://github.com/sonnynomnom/Introduction-to-Programming-in-C/blob/master/Projects/blackjack.png" alt="Black Jack" />

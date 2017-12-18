@@ -103,7 +103,7 @@ $ ./hello
 <br>
 
 ### Mini Projects ###
-* MetroCard Caluculator - Jacob Lindah + co (Summer 2017)
+* MetroCard Caluculator - Brandon Lim, Christopher Narducci & Jacob Lindahl (Summer 2017)
 <br>
 
 ### Final Projects ###

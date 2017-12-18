@@ -56,6 +56,7 @@ $ ./hello
 
 - [x] [`leapyear.c`](Programs/leapyear.c)
 - [ ] `switch.c`
+- [ ] `week1.c`
 
 ### Week 2 ###
 
@@ -65,9 +66,7 @@ $ ./hello
 
 - [x] [`youngmoney.c`](Programs/youngmoney.c)
 - [x] [`trouble.c`](Programs/trouble.c)
-- [ ] `fizzbuzz.c`
-
-- [ ] `week1.c`
+- [x] [`fizzbuzz.c`](Programs/fizzbuzz.c)
 
 - [ ] `pattern1.c`
 - [ ] `pattern2.c`
@@ -104,18 +103,18 @@ $ ./hello
 <br>
 
 ### Mini Projects ###
-* MetroCard Caluculator - Jacob Lindah + co (Summer 2017)
+* MetroCard Calculator - Brandon Lim, Christopher Narducci & Jacob Lindahl (Summer 2017)
 <br>
 
 ### Final Projects ###
 
 * [Black Jack](https://github.com/sonnynomnom/Introduction-to-Programming-in-C/blob/master/Projects/blackjack.png) - Michael Hanlon (Summer 2016)
-* [Space Invaders](https://www.videocomingsoon.com) - Brandon Lim + co. (Summer 2017)
-* [Battleship](https://www.videocomingsoon.com) - Louie Kotler + co. (Summer 2017)
-* [Tron](https://www.videocomingsoon.com) - Marcus Kapoor and Jacob Lindahl (Summer 2017)
+* Space Invaders - Brandon Lim + co. (Summer 2017)
+* Battleship - Louie Kotler + co. (Summer 2017)
+* Tron - Marcus Kapoor and Jacob Lindahl (Summer 2017)
 <br>
 
 <img src="https://github.com/sonnynomnom/Introduction-to-Programming-in-C/blob/master/Projects/blackjack.png" alt="Black Jack" />
 
 ## License
-Columbia University © [Songqiao Li](https://instagram.com/sonnynomnom)
+Columbia University © [Songqiao Li](https://www.sonnyli.co)

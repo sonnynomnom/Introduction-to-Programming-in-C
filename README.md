@@ -57,11 +57,6 @@ $ ./hello
 - [x] [`leapyear.c`](Programs/leapyear.c)
 - [ ] `switch.c`
 
-Mini Projects:
-* [MetroCard Calculator](Projects/metrocard.c) - Brandon Lim, Chris Narducci & Jacob Lindahl (Summer 2017)
-* Who Wants to Be a Millionaire - asdf (Summer 2017)
-* Rock Paper Scissors Spock Lizard (Summer 2017)
-
 ### Week 2 ###
 
 - [x] [`enterPIN.c`](Programs/enterPIN.c)
@@ -107,8 +102,10 @@ Mini Projects:
 <br>
 
 ### Mini Projects ###
+
 * [MetroCard Calculator](Projects/metrocard.c) - Brandon Lim, Chris Narducci & Jacob Lindahl (Summer 2017)
-<br>
+* Who Wants to Be a Millionaire - asdf (Summer 2017)
+* Rock Paper Scissors Spock Lizard (Summer 2017)
 
 ### Final Projects ###
 

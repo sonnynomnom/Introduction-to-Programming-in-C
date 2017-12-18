@@ -87,9 +87,11 @@ $ ./hello
 - [ ] `findme.c`
 
 - [ ] `hangman.c`
+
+### Week 3 ###
+
 - [ ] `hypotenuse.c`
 - [ ] `area.c`
-
 
 - [ ] `books.c`
 - [ ] `car.c`

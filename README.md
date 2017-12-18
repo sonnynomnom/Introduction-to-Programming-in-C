@@ -60,7 +60,7 @@ $ ./hello
 ### Week 2 ###
 
 - [x] [`youngmoney.c`](Programs/youngmoney.c)
-- [ ] `enterPIN.c`
+- [x] [`enterPIN.c`](Programs/enterPIN.c)
 - [ ] `ten.c`
 - [ ] `guessing1.c`
 - [ ] `guessing2.c`

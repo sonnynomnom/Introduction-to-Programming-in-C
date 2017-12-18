@@ -2,7 +2,6 @@
 // Brandon Lim, Christopher Narducci & Jacob Lindahl
 
 #include <stdio.h>
-#include <math.h>
 
 int main() {
     

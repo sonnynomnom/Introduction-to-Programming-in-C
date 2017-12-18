@@ -65,7 +65,7 @@ $ ./hello
 
 - [x] [`youngmoney.c`](Programs/youngmoney.c)
 - [x] [`trouble.c`](Programs/trouble.c)
-- [ ] `fizzbuzz.c`
+- [x] [`fizzbuzz.c`](Programs/fizzbuzz.c)
 
 - [ ] `week1.c`
 

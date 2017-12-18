@@ -1,9 +1,6 @@
-// Jonathan Daniel
-// Fun Fact: I'm a huge Marvel Cinematic Universe fan.
+// Brandon Lim
+// Fun Fact: I like monochrome colours.
 
-// $ gcc -Wall quadratic.c -o quadratic -lm 
-// $ ./quadratic
- 
 #include <stdio.h>
 #include <math.h>
 

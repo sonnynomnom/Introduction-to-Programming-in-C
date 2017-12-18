@@ -99,7 +99,6 @@ $ ./hello
 
 - [ ] `fibonacci.c`
 - [ ] `pointer.c`
-<br>
 
 ### Mini Projects ###
 

@@ -66,6 +66,7 @@ $ ./hello
 - [x] [`youngmoney.c`](Programs/youngmoney.c)
 - [x] [`trouble.c`](Programs/trouble.c)
 - [x] [`fizzbuzz.c`](Programs/fizzbuzz.c)
+- [x] [`adding.c`](Programs/adding.c)
 
 - [ ] `pattern1.c`
 - [ ] `pattern2.c`

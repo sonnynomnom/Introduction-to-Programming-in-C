@@ -56,6 +56,7 @@ $ ./hello
 
 - [x] [`leapyear.c`](Programs/leapyear.c)
 - [ ] `switch.c`
+- [ ] `week1.c`
 
 ### Week 2 ###
 
@@ -66,8 +67,6 @@ $ ./hello
 - [x] [`youngmoney.c`](Programs/youngmoney.c)
 - [x] [`trouble.c`](Programs/trouble.c)
 - [x] [`fizzbuzz.c`](Programs/fizzbuzz.c)
-
-- [ ] `week1.c`
 
 - [ ] `pattern1.c`
 - [ ] `pattern2.c`

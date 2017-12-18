@@ -56,7 +56,11 @@ $ ./hello
 
 - [x] [`leapyear.c`](Programs/leapyear.c)
 - [ ] `switch.c`
-- [ ] `week1.c`
+
+Week 1 Projects:
+* [MetroCard Calculator](Projects/metrocard.c) - Brandon Lim, Chris Narducci & Jacob Lindahl (Summer 2017)
+* Who Wants to Be a Millionaire - asdf (Summer 2017)
+* Rock Paper Scissors Spock Lizard (Summer 2017)
 
 ### Week 2 ###
 

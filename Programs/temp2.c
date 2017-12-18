@@ -1,8 +1,8 @@
 // Marcus Kapoor
 // Fun Fact: I'm half Czech, half Indian. ヾ(⌐■_■)ノ♪
 
-// By default %f will display values up to 6 digits after the decimal point.
-// Writing %.1f or %.2f will reduce the precision to 1 or 2 digits respectively.
+// By default %f will display values up to 6 digits after the decimal point. 
+// Writing %0.1f or %0.2f will reduce the precision to 1 or 2 digits respectively.
 
 #include <stdio.h>
 

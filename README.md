@@ -103,12 +103,12 @@ $ ./hello
 <br>
 
 ### Mini Projects ###
-* MetroCard Calculator - Brandon Lim, Christopher Narducci & Jacob Lindahl (Summer 2017)
+* [MetroCard Calculator](Projects/metrocard.c) - Brandon Lim, Chris Narducci & Jacob Lindahl (Summer 2017)
 <br>
 
 ### Final Projects ###
 
-* [Black Jack](https://github.com/sonnynomnom/Introduction-to-Programming-in-C/blob/master/Projects/blackjack.png) - Michael Hanlon (Summer 2016)
+* [Black Jack](Projects/blackjack.png) - Michael Hanlon (Summer 2016)
 * Space Invaders - Brandon Lim + co. (Summer 2017)
 * Battleship - Louie Kotler + co. (Summer 2017)
 * Tron - Marcus Kapoor and Jacob Lindahl (Summer 2017)

@@ -57,7 +57,7 @@ $ ./hello
 - [x] [`leapyear.c`](Programs/leapyear.c)
 - [ ] `switch.c`
 
-- [ ] `youngmoney.c`
+- [x] [`youngmoney.c`](Programs/youngmoney.c)
 - [ ] `enterPIN.c`
 - [ ] `ten.c`
 - [ ] `guessing1.c`

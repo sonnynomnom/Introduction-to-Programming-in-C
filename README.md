@@ -117,4 +117,4 @@ $ ./hello
 <img src="https://github.com/sonnynomnom/Introduction-to-Programming-in-C/blob/master/Projects/blackjack.png" alt="Black Jack" />
 
 ## License
-Columbia University © [Songqiao Li](https://instagram.com/sonnynomnom)
+Columbia University © [Songqiao Li](https://www.sonnyli.co)

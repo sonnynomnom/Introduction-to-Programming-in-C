@@ -103,9 +103,9 @@ $ ./hello
 
 ### Mini Projects ###
 
-* **Week 1** [MetroCard Calculator](Projects/metrocard.c) - Brandon Lim, Chris Narducci & Jacob Lindahl (Summer 2017)
-* **Week 1** Who Wants to Be a Millionaire - asdf (Summer 2017)
-* **Week 1** Rock Paper Scissors Spock Lizard (Summer 2017)
+* **(Week 1)** [MetroCard Calculator](Projects/metrocard.c) - Brandon Lim, Chris Narducci & Jacob Lindahl (Summer 2017)
+* **(Week 1)** Who Wants to Be a Millionaire - asdf (Summer 2017)
+* **(Week 1)** Rock Paper Scissors Spock Lizard (Summer 2017)
 
 ### Final Projects ###
 

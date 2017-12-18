@@ -1,7 +1,7 @@
 // Sonny Li
 // Intro to Programming in C
 
-// for loop vs while loop
+// while loop vs. for loop
 
 #include <stdio.h>
 

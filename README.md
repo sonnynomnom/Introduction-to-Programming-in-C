@@ -112,8 +112,7 @@ Coming soon!
 * **Week 1:** [Rock Paper Scissors Lizard Spock](Projects/rockpaperscissors.c) - Marcus Kapoor, Andrea Corro & Louie Kotler (Summer '17)
 * **Week 1:** Magic 8-Ball
 * **Week 2:** TicTacToe
-* **Week 2:** Connect Four
-* **Week 2:** Matching
+* **Week 2:** Hangman
 
 ### Final Projects ###
 

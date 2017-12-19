@@ -107,7 +107,7 @@ $ ./hello
 
 * **Week 1:** [MetroCard Calculator](Projects/metrocard.c) - Brandon Lim, Chris Narducci & Jacob Lindahl (Summer 2017)
 * **Week 1:** Who Wants to Be a Millionaire? - Cruz Fernandez, Jordana Pearlman & Jason Chay (Summer 2017)
-* **Week 1:** Rock Paper Scissors Spock Lizard - Marcus Kapoor, Andrea Corro & Louie Kotler (Summer 2017)
+* **Week 1:** [Rock Paper Scissors Lizard Spock](Projects/rockpaperscissors.c) - Marcus Kapoor, Andrea Corro & Louie Kotler (Summer 2017)
 
 ### Final Projects ###
 

@@ -106,22 +106,18 @@ $ ./hello
 
 ### Mini Projects ###
 
-Coming soon!
-
 * **Week 1:** [MetroCard Calculator (New York)](Projects/metrocard.c) - Brandon Lim, Chris Narducci & Jacob Lindahl (Summer '17)
 * **Week 1:** [Rock-Paper-Scissors-Lizard-Spock](Projects/rockpaperscissors.c) - Marcus Kapoor, Andrea Corro & Louie Kotler (Summer '17)
 * **Week 1:** Who Wants to Be a Millionaire - Cruz Fernandez, Jordana Pearlman & Jason Chay (Summer '17)
-* **Week 2:** TicTacToe
-* **Week 2:** Hangman
+* **Week 2:** Tic-Tac-Toe - Coming soon!
+* **Week 2:** Hangman - Coming soon!
 
 ### Final Projects ###
 
-Coming soon!
-
 * [Black Jack](Projects/blackjack.png) - Michael Hanlon (Summer '16)
-* Space Invaders - Brandon Lim + co. (Summer '17)
-* Battleship - Louie Kotler + co. (Summer '17)
-* Tron - Marcus Kapoor and Jacob Lindahl (Summer '17)
+* Space Invaders - Brandon Lim + co. (Summer '17) - Coming soon!
+* Battleship - Louie Kotler + co. (Summer '17) - Coming soon!
+* Tron - Marcus Kapoor and Jacob Lindahl (Summer '17) - Coming soon!
 <br>
 
 <img src="https://github.com/sonnynomnom/Introduction-to-Programming-in-C/blob/master/Projects/blackjack.png" alt="Black Jack" />

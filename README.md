@@ -69,7 +69,7 @@ $ ./hello
 - [x] [`fizzbuzz.c`](Programs/fizzbuzz.c)
 - [x] [`adding.c`](Programs/adding.c)
 
-- [ ] `pattern1.c`
+- [x] [`pattern1.c`](Programs/pattern1.c)
 - [ ] `pattern2.c`
 
 - [ ] `reverse.c`

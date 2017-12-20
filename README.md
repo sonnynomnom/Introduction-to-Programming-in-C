@@ -51,6 +51,7 @@ $ ./hello
 
 - [x] [`flipcoin.c`](Programs/flipcoin.c)
 - [x] [`pH.c`](Programs/pH.c)
+- [x] [`magic8ball.c`](Programs/magic8ball.c)
 - [x] [`spaceboxer.c`](Programs/spaceboxer.c)
 - [x] [`quiz.c`](Programs/quiz.c)
 
@@ -110,7 +111,6 @@ Coming soon!
 * **Week 1:** [MetroCard Calculator](Projects/metrocard.c) - Brandon Lim, Chris Narducci & Jacob Lindahl (Summer '17)
 * **Week 1:** Who Wants to Be a Millionaire? - Cruz Fernandez, Jordana Pearlman & Jason Chay (Summer '17)
 * **Week 1:** [Rock Paper Scissors Lizard Spock](Projects/rockpaperscissors.c) - Marcus Kapoor, Andrea Corro & Louie Kotler (Summer '17)
-* **Week 1:** Magic 8-Ball
 * **Week 2:** TicTacToe
 * **Week 2:** Hangman
 

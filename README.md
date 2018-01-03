@@ -75,7 +75,8 @@ $ ./hello
 - [x] [`reverse.c`](Programs/reverse.c)
 - [x] [`armstrong.c`](Programs/armstrong.c)
 
-- [ ] `primes.c`
+- [ ] `prime1.c`
+- [ ] `prime2.c`
 
 - [ ] `mimzy.c`
 - [ ] `oddeven.c`
@@ -87,8 +88,6 @@ $ ./hello
 - [ ] `alternate.c`
 
 - [ ] `findme.c`
-
-- [ ] `hangman.c`
 
 ### Week 3 ###
 

@@ -73,7 +73,7 @@ $ ./hello
 - [x] [`pattern2.c`](Programs/pattern2.c)
 
 - [x] [`reverse.c`](Programs/reverse.c)
-- [ ] `armstrong.c`
+- [x] [`armstrong.c`](Programs/armstrong.c)
 
 - [ ] `primes.c`
 

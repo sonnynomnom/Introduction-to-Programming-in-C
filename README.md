@@ -72,11 +72,11 @@ $ ./hello
 - [x] [`pattern1.c`](Programs/pattern1.c)
 - [x] [`pattern2.c`](Programs/pattern2.c)
 
-- [x] [`reverse.c`](Programs/reverse.c)
-- [x] [`armstrong.c`](Programs/armstrong.c)
-
 - [ ] `prime1.c`
 - [ ] `prime2.c`
+
+- [x] [`reverse.c`](Programs/reverse.c)
+- [x] [`armstrong.c`](Programs/armstrong.c)
 
 - [ ] `mimzy.c`
 - [ ] `oddeven.c`

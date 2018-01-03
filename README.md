@@ -106,8 +106,9 @@ $ ./hello
 
 ### Mini Projects ###
 
-* **Week 1:** [MetroCard Calculator (New York)](Projects/metrocard.c) - Brandon Lim, Chris Narducci & Jacob Lindahl (Summer '17)
 * **Week 1:** [Rock-Paper-Scissors-Lizard-Spock](Projects/rockpaperscissors.c) - Marcus Kapoor, Andrea Corro & Louie Kotler (Summer '17)
+* **Week 1:** [MetroCard Calculator (New York)](Projects/metrocard.c) - Brandon Lim, Chris Narducci & Jacob Lindahl (Summer '17)
+* **Week 1:** [Lost In Forest](Projects/lostinforest.c) - Jack Lu, Simone Stern, Zachery Hine & Spencer Rowley (Summer '17)
 * **Week 1:** [Who Wants to Be a Millionaire](Projects/millionaire.c) - Cruz Fernandez, Jordana Pearlman & Jason Chay (Summer '17)
 * **Week 2:** Tic-Tac-Toe - Coming soon!
 * **Week 2:** Hangman - Coming soon!

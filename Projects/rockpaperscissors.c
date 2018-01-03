@@ -65,6 +65,7 @@ int main() {
                 printf("Computer chose Paper.\n\n");
                 printf("You lost this round!\n\n");
                 score2++;
+                
             }
             else if (computer == 3) {
                 
@@ -162,6 +163,7 @@ int main() {
                 score2++;
                 
             }
+            
         }
         else if (player == 4) {
             

@@ -85,7 +85,7 @@ $ ./hello
 
 - [x] [`strings.c`](Programs/strings.c)
 - [x] [`alternate.c`](Programs/alternate.c)
-- [ ] `findme.c`
+- [x] [`findme.c`](Programs/findme.c)
 
 ### Week 3 ###
 

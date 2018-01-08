@@ -1,5 +1,5 @@
 // Zach Hine
-// Fun Fact: My favorite food is barbeque chicken.
+// Fun Fact: My favorite food is BBQ chicken.
 
 #include <stdio.h>
 

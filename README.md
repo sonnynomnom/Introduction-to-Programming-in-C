@@ -94,7 +94,7 @@ $ ./hello
 ### Week 3 ###
 
 - [x] [`hypotenuse.c`](Programs/hypotenuse.c)
-- [ ] `area.c`
+- [x] [`area.c`](Programs/area.c)
 
 - [ ] `books.c`
 - [ ] `car.c`

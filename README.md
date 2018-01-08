@@ -81,7 +81,7 @@ $ ./hello
 - [x] [`mimzy.c`](Programs/mimzy.c)
 - [x] [`oddeven.c`](Programs/oddeven.c)
 
-- [ ] `ascend.c`
+- [x] [`ascend.c`](Programs/ascend.c)
 
 - [ ] `strings.c`
 

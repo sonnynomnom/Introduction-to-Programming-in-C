@@ -84,7 +84,7 @@ $ ./hello
 - [x] [`ascending.c`](Programs/ascending1.c) vs. [`ascending2.c`](Programs/ascending2.c)
 
 - [x] [`strings.c`](Programs/strings.c)
-- [ ] `alternate.c`
+- [x] [`alternate.c`](Programs/alternate.c)
 - [ ] `findme.c`
 
 ### Week 3 ###

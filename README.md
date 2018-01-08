@@ -4,7 +4,7 @@
 
 [logo]: https://github.com/sonnynomnom/Introduction-to-Programming-in-C/blob/master/logo.png "Columbia University"
 
-**Instructor:** Songqiao Li (sl4142@columbia.edu)    <a href="http://www.ratemyprofessors.com/ShowRatings.jsp?tid=2175759"> <img src="https://github.com/sonnynomnom/Introduction-to-Programming-in-C/blob/master/ratemyprofessors.png" alt="Rate My Professors" /> </a>
+**Instructor:** Songqiao "Sonny" Li (sl4142@columbia.edu)    <a href="http://www.ratemyprofessors.com/ShowRatings.jsp?tid=2175759"> <img src="https://github.com/sonnynomnom/Introduction-to-Programming-in-C/blob/master/ratemyprofessors.png" alt="Rate My Professors" /> </a>
 
 **Hamilton 607:** 11:10 am - 1:00 pm (MTWTF)  
 **Hamilton 613:** 3:10 pm - 5:00 pm (MTWTF)  

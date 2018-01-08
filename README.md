@@ -78,7 +78,7 @@ $ ./hello
 - [x] [`reverse.c`](Programs/reverse.c)
 - [x] [`armstrong.c`](Programs/armstrong.c)
 
-- [ ] `mimzy.c`
+- [x] [`mimzy.c`](Programs/mimzy.c)
 - [ ] `oddeven.c`
 
 - [ ] `ascend.c`

@@ -13,7 +13,7 @@ int main () {
     for (int x = 0; x < 3; x++)
     {
         
-        printf("What is number %d?", x+1);
+        printf("What is number %d? ", x+1);
         scanf("%d", &A[x]);
         
     }
@@ -25,7 +25,7 @@ int main () {
     for (int y = 0; y < 3; y++)
     {
         
-        printf("What is number %d?", y+1);
+        printf("What is number %d? ", y+1);
         scanf("%d", &B[y]);
         
     }

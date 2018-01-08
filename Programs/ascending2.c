@@ -1,5 +1,5 @@
 // Marcus Kapoor
-// Intro to Programming in C
+// Fun Fact: Team Yasuo is going down.
 
 #include <stdio.h>
 

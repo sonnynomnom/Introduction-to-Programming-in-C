@@ -1,5 +1,5 @@
 // Team $20 Gift Card
-// Brandon Lim
+// Brandon Lim & Jack Lu
 
 #include <stdio.h>
 #include <stdlib.h>

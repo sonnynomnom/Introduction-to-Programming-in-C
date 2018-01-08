@@ -94,9 +94,9 @@ $ ./hello
 ### Week 3 ###
 
 - [x] [`hypotenuse.c`](Programs/hypotenuse.c)
-- [ ] `area.c`
+- [x] [`area.c`](Programs/area.c)
 
-- [ ] `books.c`
+- [x] [`books.c`](Programs/books.c)
 - [ ] `car.c`
 
 - [ ] `enum.c`

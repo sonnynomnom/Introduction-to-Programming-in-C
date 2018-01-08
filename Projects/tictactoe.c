@@ -1,5 +1,5 @@
 // Team $20 Gift Card
-// Brandon Lim, Jack Lu, Cruz Fernandez & Nicole Fraidenraich
+// Brandon Lim
 
 #include <stdio.h>
 #include <stdlib.h>

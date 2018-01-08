@@ -34,7 +34,7 @@ Participants are expected to bring laptops and notebooks to class. Laptops can e
 
 ### Repl.it ###
 
-Coming soon!
+*Coming soon!*
 
 ### Week 1 ###
 

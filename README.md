@@ -93,7 +93,7 @@ $ ./hello
 
 ### Week 3 ###
 
-- [ ] `hypotenuse.c`
+- [x] [`hypotenuse.c`](Programs/hypotenuse.c)
 - [ ] `area.c`
 
 - [ ] `books.c`

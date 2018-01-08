@@ -32,6 +32,10 @@ Participants are expected to bring laptops and notebooks to class. Laptops can e
 
 [www.piazza.com/columbia/summer2017/cpron0209](https://www.piazza.com/columbia/summer2017/cpron0209)  
 
+### Repl.it ###
+
+Coming soon!
+
 ### Week 1 ###
 
 ```

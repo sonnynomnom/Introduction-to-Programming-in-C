@@ -1,6 +1,5 @@
 // Week 2 Extra Credit: Hangman
-// Marcus Kapoor
-// Columbia University
+// Marcus Kapoor (Columbia University)
 
 // Instructor: Sonny Li
 
@@ -59,7 +58,7 @@ int main () {
     
     initscr();              // creates a 'window' that can be edited. printw(), scanw(), refresh(), etc. are editing this 'window'
     
-    printw("Welcome to Hangman! To play, press [Enter] \n");
+    printw("Welcome to Hangman! To play, press [Enter]\n");
     
     noecho();               // the terminal doesn't echo (type) what you enter. kind of like when you input a password
     
@@ -78,7 +77,7 @@ int main () {
     
     // ~~~~~~ Initialization: Part 2 ~~~~~~
     
-    mvprintw(1, 27, "===========================");     // mvprintw prints a line at specific corrdinates
+    mvprintw(1, 27, "===========================");     // mvprintw prints a line at specific coordinates
     mvprintw(2, 27, "       !! HANGMAN !!       ");
     mvprintw(3, 27, "===========================");
     

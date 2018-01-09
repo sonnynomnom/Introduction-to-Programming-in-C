@@ -34,7 +34,7 @@ Participants are expected to bring laptops and notebooks to class. Laptops can e
 
 ### Repl.it ###
 
-*Coming soon!*
+Coming soon!
 
 ### Week 1 ###
 
@@ -112,7 +112,7 @@ $ ./hello
 * **Week 1:** [Lost In Forest: Adventure](Projects/lostinforest.c) - Jack Lu, Simone Stern, Zachery Hine & Spencer Rowley (Summer '17)
 * **Week 1:** [Who Wants to Be a Millionaire](Projects/millionaire.c) - Cruz Fernandez, Jordana Pearlman & Jason Chay (Summer '17)
 * **Week 2:** [Tic-Tac-Toe](Projects/tictactoe.c) - Brandon Lim & Jack Lu (Summer '17)
-* **Week 2:** Hangman - Coming soon!
+* **Week 2:** [Hangman](Projects/hangman.c) - Marcus Kapoor (Summer '17)
 
 ### Final Projects ###
 

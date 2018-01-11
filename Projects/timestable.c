@@ -221,4 +221,5 @@ int main() {
     } while(1);
     
     system("clear");
+    
 }

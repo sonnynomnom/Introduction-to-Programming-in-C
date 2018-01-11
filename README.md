@@ -112,6 +112,8 @@ $ ./hello
 * **Week 1:** [Lost In Forest: Adventure](Projects/lostinforest.c) - Jack Lu, Simone Stern, Zachery Hine & Spencer Rowley (Summer '17)
 * **Week 1:** [Who Wants to Be a Millionaire](Projects/millionaire.c) - Cruz Fernandez, Jordana Pearlman & Jason Chay (Summer '17)
 * **Week 1:** [Blackout](Projects/blackout.c) - Ariel Gross, Jonathan Daniel & Steve You (Summer '17)
+
+* **Week 2:** [Times Table](Projects/timestable.c) - Alexan Varelas, David Fang & Jonathan Daniel (Summer '17)
 * **Week 2:** [Tic-Tac-Toe](Projects/tictactoe.c) - Brandon Lim & Jack Lu (Summer '17)
 * **Week 2:** [Hangman](Projects/hangman.c) - Marcus Kapoor (Summer '17)
 

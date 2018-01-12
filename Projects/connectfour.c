@@ -130,7 +130,8 @@ int checkWinner(char x[6][7]) {
             // checks diagonal +slope
             
             if (x[i][j] == x[i+1][j-1] && x[i+1][j-1] == x[i+2][j-2] && x[i+2][j-2] == x[i+3][j-3]
-                     && (x[i][j] == 'X' || x[i][j] == '0') && (j-1)>= 0 && (j-2)>=0 && (j-3)>=0 && (i+1)<6 && (i+2)<6 && (i+3)<6) {
+                     && (x[i][j] == 'X' || x[i][j] == '0') && (j-1) >= 0 && (j-2) >= 0 && (j-3) >= 0 
+                     && (i+1) < 6 && (i+2) < 6 && (i+3) < 6) {
                 
                 winner = 1;
                 // printf("diagonal +slope\n");

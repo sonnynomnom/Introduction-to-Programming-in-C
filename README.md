@@ -97,7 +97,7 @@ $ ./hello
 - [x] [`area.c`](Programs/area.c)
 
 - [x] [`books.c`](Programs/books.c)
-- [x] [`car.c`](Programs/car.c)
+- [x] [`cars.c`](Programs/cars.c)
 
 - [ ] `enum.c`
 - [ ] `factorial.c`

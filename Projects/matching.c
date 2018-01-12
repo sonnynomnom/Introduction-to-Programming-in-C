@@ -111,35 +111,20 @@ int main () {
         
         initscr();
         
-        reload();
+        // reload();
         
-        mvprintw(0, 0,"===========================\n");
-        mvprintw(1, 0,"        Matching Game      \n");
-        mvprintw(2, 0,"===========================\n\n");
+        mvprintw(0, 0, "=============================\n");
+        mvprintw(1, 0, "        Matching Game        \n");
+        mvprintw(2, 0, "=============================\n\n");
         refresh();
         
-        mvprintw(4, 0, "\n");
-        mvprintw(5, 0, "    1   2   3   4\n\n");
+        mvprintw(5, 0, "      \\   1   2   3   4     \n\n");
         refresh();
         
-        /* for(i = 0; i < 4; i++) {
-         
-        mvprintw("%d", i+1);
-        
-        for(j=0; j<4; j++) {
-         
-            mvprintw("   %c", array1[i][j]);
-         
-        }
-        
-        mvprintw("\n\n");
-        }
-         */
-        
-        mvprintw(8,  0, "1   %c   %c   %c   %c", array1[0][0], array1[0][1], array1[0][2], array1[0][3]);
-        mvprintw(11, 0, "2   %c   %c   %c   %c", array1[1][0], array1[1][1], array1[1][2], array1[1][3]);
-        mvprintw(14, 0, "3   %c   %c   %c   %c", array1[2][0], array1[2][1], array1[2][2], array1[2][3]);
-        mvprintw(17, 0, "4   %c   %c   %c   %c", array1[3][0], array1[3][1], array1[3][2], array1[3][3]);
+        mvprintw(8,  0, "      1   %c   %c   %c   %c", array1[0][0], array1[0][1], array1[0][2], array1[0][3]);
+        mvprintw(11, 0, "      2   %c   %c   %c   %c", array1[1][0], array1[1][1], array1[1][2], array1[1][3]);
+        mvprintw(14, 0, "      3   %c   %c   %c   %c", array1[2][0], array1[2][1], array1[2][2], array1[2][3]);
+        mvprintw(17, 0, "      4   %c   %c   %c   %c", array1[3][0], array1[3][1], array1[3][2], array1[3][3]);
         refresh();
         
         // sleep(3);
@@ -202,7 +187,7 @@ int main () {
         
         // sleep(3);
         
-        mvprintw(5, 0, "    1   2   3   4\n\n");
+        mvprintw(5, 0, "      \\   1   2   3   4     \n\n");
         
         /*
          
@@ -222,10 +207,10 @@ int main () {
          
         */
         
-        mvprintw(8,  0, "1   %c   %c   %c   %c", array1[0][0], array1[0][1], array1[0][2], array1[0][3]);
-        mvprintw(11, 0, "2   %c   %c   %c   %c", array1[1][0], array1[1][1], array1[1][2], array1[1][3]);
-        mvprintw(14, 0, "3   %c   %c   %c   %c", array1[2][0], array1[2][1], array1[2][2], array1[2][3]);
-        mvprintw(17, 0, "4   %c   %c   %c   %c", array1[3][0], array1[3][1], array1[3][2], array1[3][3]);
+        mvprintw(8,  0, "      1   %c   %c   %c   %c", array1[0][0], array1[0][1], array1[0][2], array1[0][3]);
+        mvprintw(11, 0, "      2   %c   %c   %c   %c", array1[1][0], array1[1][1], array1[1][2], array1[1][3]);
+        mvprintw(14, 0, "      3   %c   %c   %c   %c", array1[2][0], array1[2][1], array1[2][2], array1[2][3]);
+        mvprintw(17, 0, "      4   %c   %c   %c   %c", array1[3][0], array1[3][1], array1[3][2], array1[3][3]);
         
         echo();
         refresh();
@@ -238,20 +223,20 @@ int main () {
                 
                 running = 0;
                 
-                mvprintw(0, 0,"===========================\n");
-                mvprintw(1, 0,"        Matching Game      \n");
-                mvprintw(2, 0,"===========================\n\n");
+                mvprintw(0, 0, "=============================\n");
+                mvprintw(1, 0, "        Matching Game        \n");
+                mvprintw(2, 0, "=============================\n\n");
                 refresh();
                 
                 mvprintw(4, 0, "\n");
-                mvprintw(5, 0, "    1   2   3   4\n\n");
+                mvprintw(5, 0, "      \\   1   2   3   4     \n\n");
                 
-                mvprintw(8,  0, "1   %c   %c   %c   %c", array1[0][0], array1[0][1], array1[0][2], array1[0][3]);
-                mvprintw(11, 0, "2   %c   %c   %c   %c", array1[1][0], array1[1][1], array1[1][2], array1[1][3]);
-                mvprintw(14, 0, "3   %c   %c   %c   %c", array1[2][0], array1[2][1], array1[2][2], array1[2][3]);
-                mvprintw(17, 0, "4   %c   %c   %c   %c", array1[3][0], array1[3][1], array1[3][2], array1[3][3]);
+                mvprintw(8,  0, "     1   %c   %c   %c   %c", array2[0][0], array2[0][1], array2[0][2], array2[0][3]);
+                mvprintw(11, 0, "     2   %c   %c   %c   %c", array2[1][0], array2[1][1], array2[1][2], array2[1][3]);
+                mvprintw(14, 0, "     3   %c   %c   %c   %c", array2[2][0], array2[2][1], array2[2][2], array2[2][3]);
+                mvprintw(17, 0, "     4   %c   %c   %c   %c", array2[3][0], array2[3][1], array2[3][2], array2[3][3]);
                 
-                mvprintw(4, 0, "You got it! Nice!\n");
+                mvprintw(19, 0, "You got it! Nice!\n");
                 
                 // terminate();
                 // endwin();
@@ -268,18 +253,37 @@ int main () {
         array1[ent3][ent4]= '*';
     
         counterfull++;
-        mvprintw(3, 0, "Guesses Left: %d", 5-counterfull);
+        
+        mvprintw(23, 0, "Guesses Left: %d", 5-counterfull);
         
         if (counterfull >= 5) {
             
             running = 0;
-            mvprintw(4,0,"\nYou ran out of guesses, bruh ur stuppiddddd\n");
+            
+            mvprintw(0, 0, "=============================\n");
+            mvprintw(1, 0, "        Matching Game        \n");
+            mvprintw(2, 0, "=============================\n\n");
+            refresh();
+            
+            mvprintw(4, 0, "\n");
+            mvprintw(5, 0, "      \\   1   2   3   4     \n\n");
+            refresh();
+            
+            mvprintw(8,  0, "     1   %c   %c   %c   %c", array1[0][0], array1[0][1], array1[0][2], array1[0][3]);
+            mvprintw(11, 0, "     2   %c   %c   %c   %c", array1[1][0], array1[1][1], array1[1][2], array1[1][3]);
+            mvprintw(14, 0, "     3   %c   %c   %c   %c", array1[2][0], array1[2][1], array1[2][2], array1[2][3]);
+            mvprintw(17, 0, "     4   %c   %c   %c   %c", array1[3][0], array1[3][1], array1[3][2], array1[3][3]);
+            refresh();
+            
+            mvprintw(19, 0, "\nYou ran out of guesses, bruh ur stupid.\n");
             
             system("clear");
             
         }
         
         refresh();
+        
+        reload();
         
     }
 
@@ -299,10 +303,11 @@ void reload() {
     
     enter = getch();
     
-    while (enter != '\n')
-    {
+    while (enter != '\n') {
+        
         refresh();
         enter = getch();
+    
     }
     
     move(0, 0);
@@ -332,7 +337,7 @@ int terminate () {
     
     char leave;
     
-    mvprintw(22, 0, "Press [Q] to Quit\n");
+    mvprintw(22, 0, "To quit, press [q]\n");
     
     leave = getch();
     leave = tolower(leave);

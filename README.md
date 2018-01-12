@@ -107,22 +107,24 @@ $ ./hello
 
 ### Mini Projects ###
 
-* **Week 1:** [Rock-Paper-Scissors-Lizard-Spock](Projects/rockpaperscissors.c) - Marcus Kapoor, Andrea Corro & Louie Kotler (Summer '17)
-* **Week 1:** [MetroCard Calculator (New York)](Projects/metrocard.c) - Brandon Lim, Chris Narducci & Jacob Lindahl (Summer '17)
-* **Week 1:** [Lost In Forest: Adventure](Projects/lostinforest.c) - Jack Lu, Simone Stern, Zachery Hine & Spencer Rowley (Summer '17)
-* **Week 1:** [Who Wants to Be a Millionaire](Projects/millionaire.c) - Cruz Fernandez, Jordana Pearlman & Jason Chay (Summer '17)
-* **Week 1:** [Blackout](Projects/blackout.c) - Ariel Gross, Jonathan Daniel & Steve You (Summer '17)
+* **Week 1:** [Rock-Paper-Scissors-Lizard-Spock](Projects/rockpaperscissors.c) - Marcus Kapoor, Andrea Corro & Louie Kotler
+* **Week 1:** [MetroCard Calculator (New York)](Projects/metrocard.c) - Brandon Lim, Chris Narducci & Jacob Lindahl
+* **Week 1:** [Lost In Forest: Adventure](Projects/lostinforest.c) - Jack Lu, Simone Stern, Zachery Hine & Spencer Rowley
+* **Week 1:** [Who Wants to Be a Millionaire](Projects/millionaire.c) - Cruz Fernandez, Jordana Pearlman & Jason Chay
+* **Week 1:** [Blackout](Projects/blackout.c) - Ariel Gross, Jonathan Daniel & Steve You
 
-* **Week 2:** [Times Table](Projects/timestable.c) - Alexan Varelas, David Fang & Jonathan Daniel (Summer '17)
-* **Week 2:** [Tic-Tac-Toe](Projects/tictactoe.c) - Brandon Lim & Jack Lu (Summer '17)
-* **Week 2:** [Hangman](Projects/hangman.c) - Marcus Kapoor (Summer '17)
+* **Week 2:** [Times Table](Projects/timestable.c) - Alexan Varelas, David Fang & Jonathan Daniel
+* **Week 2:** [Connect Four](Projects/connectfour.c) - Andrea Corro, Zachary Hine & Jason Chay (Coming soon!)
+* **Week 2:** [Matching](Projects/matching.c) - Louie Kotler, Simone Stern & Chris Narducci (Coming soon!)
+* **Week 2:** [Tic-Tac-Toe](Projects/tictactoe.c) - Brandon Lim & Jack Lu
+* **Week 2:** [Hangman](Projects/hangman.c) - Marcus Kapoor
 
 ### Final Projects ###
 
-* [Black Jack](Projects/blackjack.png) - Michael Hanlon (Summer '16)
-* Space Invaders - Brandon Lim + co. (Summer '17) - Coming soon!
-* Battleship - Louie Kotler + co. (Summer '17) - Coming soon!
-* Tron - Marcus Kapoor and Jacob Lindahl (Summer '17) - Coming soon!
+* [Black Jack](Projects/blackjack.png) - Michael Hanlon
+* Space Invaders - Brandon Lim + co. (Coming soon!)
+* Battleship - Louie Kotler + co. (Coming soon!)
+* Tron - Marcus Kapoor and Jacob Lindahl (Coming soon!)
 <br>
 
 <img src="https://github.com/sonnynomnom/Introduction-to-Programming-in-C/blob/master/Projects/blackjack.png" alt="Black Jack" />

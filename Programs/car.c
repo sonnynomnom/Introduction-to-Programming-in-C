@@ -45,7 +45,7 @@ int main() {
     car4.price = 65000;
     car4.quantity = 7;
     
-    car1.price = 1.2 * car1.price;
+    car1.price = 1.6 * car1.price;
     
     car2.expense = 0;
     
@@ -70,7 +70,7 @@ int main() {
     printf("\n");
     
     printf("Car 3 make:      %s\n", car3.make);
-    printf("Car 3 model:    %s\n", car3.model);
+    printf("Car 3 model:     %s\n", car3.model);
     printf("Car 3 expense:   $%.2f\n", car3.expense);
     printf("Car 3 price:     $%.2f\n", car3.price);
     printf("Car 3 quantity:  %d\n", car3.quantity);

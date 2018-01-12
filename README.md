@@ -111,7 +111,7 @@ $ ./hello
 * **Week 1:** [MetroCard Calculator (New York)](Projects/metrocard.c) - Brandon Lim, Chris Narducci & Jacob Lindahl
 * **Week 1:** [Lost In Forest: Adventure](Projects/lostinforest.c) - Jack Lu, Simone Stern, Zachery Hine & Spencer Rowley
 * **Week 1:** [Who Wants to Be a Millionaire](Projects/millionaire.c) - Cruz Fernandez, Jordana Pearlman & Jason Chay
-* **Week 1:** [Blackout](Projects/blackout.c) - Ariel Gross, Jonathan Daniel @JDaniel29 & Steve You
+* **Week 1:** [Blackout](Projects/blackout.c) - Ariel Gross, [Jonathan Daniel](@JDaniel29) & Steve You
 
 * **Week 2:** [Times Table](Projects/timestable.c) - Alexan Varelas, David Fang & Jonathan Daniel
 * **Week 2:** [Connect Four](Projects/connectfour.c) - Andrea Corro, Zachary Hine & Jason Chay

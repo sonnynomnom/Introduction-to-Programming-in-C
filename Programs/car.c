@@ -45,7 +45,7 @@ int main() {
     car4.price = 65000;
     car4.quantity = 7;
     
-    car1.price = 1.2 * car1.price;
+    car1.price = 1.6 * car1.price;
     
     car2.expense = 0;
     

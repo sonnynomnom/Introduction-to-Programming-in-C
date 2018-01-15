@@ -106,6 +106,8 @@ $ ./hello
 
 - [x] [`pointers.c`](Programs/pointers.c)
 
+More coming soon!
+
 ### Mini Projects ###
 
 * **Week 1:** [Rock-Paper-Scissors-Lizard-Spock](Projects/rockpaperscissors.c) - Marcus Kapoor, Andrea Corro & Louie Kotler

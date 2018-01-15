@@ -100,9 +100,10 @@ $ ./hello
 - [x] [`cars.c`](Programs/cars.c)
 
 - [x] [`enum.c`](Programs/enum.c)
-- [x] [`factorial.c`](Programs/factorial.c)
 
-- [ ] `fibonacci.c`
+- [x] [`factorial.c`](Programs/factorial.c)
+- [x] [`fibonacci.c`](Programs/fibonacci.c)
+
 - [ ] `pointer.c`
 
 ### Mini Projects ###

@@ -99,7 +99,7 @@ $ ./hello
 - [x] [`books.c`](Programs/books.c)
 - [x] [`cars.c`](Programs/cars.c)
 
-- [ ] `enum.c`
+- [x] [`enum.c`](Programs/enum.c)
 - [ ] `factorial.c`
 
 - [ ] `fibonacci.c`

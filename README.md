@@ -104,7 +104,7 @@ $ ./hello
 - [x] [`factorial.c`](Programs/factorial.c)
 - [x] [`fibonacci.c`](Programs/fibonacci.c)
 
-- [ ] `pointer.c`
+- [x] [`pointers.c`](Programs/pointers.c)
 
 ### Mini Projects ###
 

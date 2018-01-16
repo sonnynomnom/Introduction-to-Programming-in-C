@@ -28,6 +28,10 @@ Participants are expected to bring laptops and notebooks to class. Laptops can e
 * Program in C and have a solid foundation to extend their knowledge in more complex problems
 * Think like programmers and apply programming practices in real-life problems
 
+### Textbook ###
+
+The C Programming Language (Brian Kernighan & Dennis Richie)
+
 ### Piazza ###
 
 [www.piazza.com/columbia/summer2017/cpron0209](https://www.piazza.com/columbia/summer2017/cpron0209)  

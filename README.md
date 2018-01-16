@@ -118,7 +118,7 @@ More coming soon!
 
 * **Week 2:** [Times Table](Projects/timestable.c) - Alexan Varelas, David Fang & Jonathan Daniel
 * **Week 2:** [Connect Four](Projects/connectfour.c) - Andrea Corro, Zachary Hine & Jason Chay
-* **Week 2:** [Matching](Projects/matching.c) - Louie Kotler, Simone Stern & Chris Narducci (Coming soon!)
+* **Week 2:** [Matching](Projects/matching.c) - Louie Kotler, Simone Stern & Chris Narducci
 * **Week 2:** [Tic-Tac-Toe](Projects/tictactoe.c) - Brandon Lim & Jack Lu
 * **Week 2:** [Hangman](Projects/hangman.c) - Marcus Kapoor
 

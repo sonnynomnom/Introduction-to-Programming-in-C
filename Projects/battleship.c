@@ -10,16 +10,18 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <strings.h>
 #include <time.h>
 #include <ncurses.h>
 #include <unistd.h>
 #include <ctype.h>
 #include <time.h>
+#include <unistd.h>
 
 // =========================================================================================================
 
-int computerguess ();
-int computerguess2 ();
+int computerguess();
+int computerguess2();
 
 int h = 0, b = 0, hit = 0, dir = 0;
 
@@ -206,32 +208,61 @@ int main () {
     
     system("afplay battleship.mp3 &");
     
-    mvprintw(2, 85, "Welcome to: \n\n");
+    mvprintw(2, 87, "Welcome to: \n\n");
     
     attron(COLOR_PAIR(1));
-    mvprintw(15, 64, " ____   __  ____  ____  __    ____  ____  _  _  __  ____ \n");
-    mvprintw(16, 64, "(  _ \\ / _\\(_  _)(_  _)(  )  (  __)/ ___)/ )( \\(  )(  _ \\ \n");
+    mvprintw(15, 64, " ____   __  ____  ____  __    ____  ____  _  _  __  ____       \n");
+    mvprintw(16, 64, "(  _ \\ / _\\(_  _)(_  _)(  )  (  __)/ ___)/ )( \\(  )(  _ \\  \n");
     attroff(COLOR_PAIR(1));
     attron(COLOR_PAIR(2));
-    mvprintw(17, 64, " ) _ (/    \\ )(    )(  / (_/\\ ) _) \\___ \\) __ ( )(  ) __/ \n");
-    mvprintw(18, 64, "(____/\\_/\\_/(__)  (__) \\____/(____)(____/\\_)(_/(__)(__) \n\n\n");
+    mvprintw(17, 64, " ) _ (/    \\ )(    )(  / (_/\\ ) _) \\___ \\) __ ( )(  ) __/  \n");
+    mvprintw(18, 64, "(____/\\_/\\_/(__)  (__) \\____/(____)(____/\\_)(_/(__)(__)    \n\n\n");
     attroff(COLOR_PAIR(2));
     
     attron(COLOR_PAIR(1));
-    mvprintw(21, 84, "   ..-^~~~^-..\n");
-    mvprintw(22, 84, " .~           ~.\n");
-    mvprintw(23, 84, "(;:           :;)\n");
-    mvprintw(24, 84, " (:           :)\n ");
-    mvprintw(25, 84, "   ':._   _.:' \n");
-    mvprintw(26, 84, "       | |  \n");
-    mvprintw(27, 84, "     (=====) \n");
-    mvprintw(28, 84, "       | |  \n");
-    mvprintw(29, 84, "       | |  \n");
-    mvprintw(30, 84, "       | |  \n");
-    mvprintw(31, 84, "    ((/   \\)) \n ");
+    
+    mvprintw(21, 84, "   ..-^~~~^-..     \n");
+    mvprintw(22, 84, " .~           ~.   \n");
+    mvprintw(23, 84, "(;:           :;)  \n");
+    mvprintw(24, 84, " (:           :)   \n");
+    mvprintw(25, 84, "   ':._   _.:'     \n");
+    mvprintw(26, 84, "       | |         \n");
+    mvprintw(27, 84, "     (=====)       \n");
+    mvprintw(28, 84, "       | |         \n");
+    mvprintw(29, 84, "       | |         \n");
+    mvprintw(30, 84, "       | |         \n");
+    mvprintw(31, 84, "    ((/   \\))     \n");
+    
+//    mvprintw(31, 84, "    ((/   \\)) \n ");
+//    usleep(2000000);
+//    mvprintw(30, 84, "       | |  \n");
+//    usleep(2000000);
+//    mvprintw(29, 84, "       | |  \n");
+//    usleep(2000000);
+//    mvprintw(28, 84, "       | |  \n");
+//    usleep(2000000);
+//    mvprintw(27, 84, "     (=====) \n");
+//    usleep(2000000);
+//    mvprintw(26, 84, "       | |  \n");
+//    usleep(2000000);
+//    mvprintw(25, 84, "   ':._   _.:' \n");
+//    usleep(2000000);
+//    mvprintw(24, 84, " (:           :)\n ");
+//    usleep(2000000);
+//    mvprintw(23, 84, "(;:           :;)\n");
+//    usleep(2000000);
+//    mvprintw(22, 84, " .~           ~.\n");
+//    usleep(2000000);
+//    mvprintw(21, 84, "   ..-^~~~^-..\n");
+//    usleep(2000000);
+
     attroff(COLOR_PAIR(1));
     
-    mvprintw(35, 83, "Press [enter] to play\n\n" );
+    mvprintw(35, 83, "Press [Enter] to play: ");
+    
+    noech();
+    
+    enter1 = getch();
     
     while (enter1 != '\n') {
         

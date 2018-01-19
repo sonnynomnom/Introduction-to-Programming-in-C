@@ -128,10 +128,10 @@ More coming soon!
 
 ### Final Projects ###
 
-* [Black Jack](Projects/blackjack.png) - Michael Hanlon
 * Space Invaders - Brandon Lim + co. (Coming soon!)
 * [Battleship](Projects/battleship.c) - Louie Kotler, Simone Stern & Chris Narducci
 * Tron - Marcus Kapoor and Jacob Lindahl (Coming soon!)
+* [Black Jack](Projects/blackjack.png) - Michael Hanlon
 <br>
 
 <img src="https://github.com/sonnynomnom/Introduction-to-Programming-in-C/blob/master/Projects/blackjack.png" alt="Black Jack" />

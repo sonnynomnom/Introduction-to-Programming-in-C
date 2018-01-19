@@ -130,7 +130,7 @@ More coming soon!
 
 * [Black Jack](Projects/blackjack.png) - Michael Hanlon
 * Space Invaders - Brandon Lim + co. (Coming soon!)
-* Battleship - Louie Kotler + co. (Coming soon!)
+* [Battleship](Projects/battleship.c) - Louie Kotler, Simone Stern & Chris Narducci
 * Tron - Marcus Kapoor and Jacob Lindahl (Coming soon!)
 <br>
 
